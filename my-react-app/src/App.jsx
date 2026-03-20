@@ -13,7 +13,8 @@ import ProductListing from './pages/ProductListing';
 import ProductDetail from './pages/ProductDetail';
 import Cart from './pages/Cart';
 import Checkout from './pages/Checkout';
-import SignIn from './pages/SignIn';
+// force update
+import SignIn from './pages/signin';
 import Register from './pages/Register';
 import Profile from './pages/Profile';
 import Wishlist from './pages/Wishlist';
