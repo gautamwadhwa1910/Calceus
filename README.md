@@ -15,20 +15,14 @@ View purchase history
 ⚡ Responsive Design
 Fully optimized for mobile, tablet, and desktop
 🧑‍💻 Tech Stack
-
 Frontend
-
 React.js
 Tailwind CSS
 Vite
-
 Backend
-
 Node.js
 Express.js
-
 Database
-
 MongoDB
 📂 Project Structure
 calceus/
