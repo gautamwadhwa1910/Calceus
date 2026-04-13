@@ -55,3 +55,4 @@ Calceus is a modern sneaker-focused e-commerce platform designed to deliver a se
 - 🤖 AI-based Sneaker Recommendations  
 - 📊 Admin Dashboard  
 - 🔔 Real-time Notifications  
+# Calceus is a Platform which fullfills all the required properties of a complete web platfrom
